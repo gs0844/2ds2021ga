@@ -33,7 +33,7 @@
 
         <label for="exampleFormControlInput1">% Do Pinto</label>
         <br>
-        <input class="form-control form-control-lg" type="text" name="txtpinto" placeholder="Comissão">
+        <input class="form-control form-control-lg" type="text" name="txtpinto" placeholder="Pinto">
         <br>
         
         <button type="submit" class="btn btn-danger">Calcular</button>
